@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PaisesApp</string>
+    <string name="boton_texto">Información de países</string>
+    <string name="pais_nombre_china">China</string>
+    <string name="pais_nombre_india">India</string>
+    <string name="pais_nombre_indonesia">Indonesia</string>
+    <string name="pais_nombre_pakistan">Pakistán</string>
+    <string name="pais_nombre_bangladesh">Bangladesh</string>
+    <string name="pais_nombre_rusia">Rusia</string>
+    <string name="pais_descripcion_china">Conocida por ser el país más poblado del mundo, su cultura antigua y la modernidad de sus innovaciones tecnológicas.</string>
+    <string name="pais_descripcion_india">Nación diversa con rica herencia cultural, cuna de religiones y conocida por su crecimiento económico.</string>
+    <string name="pais_descripcion_indonesia">Archipiélago en el sudeste asiático famoso por su biodiversidad y vastas selvas tropicales.</string>
+    <string name="pais_descripcion_pakistan">Destacado por su singular patrimonio cultural y geografía variada, que abarca desde desiertos hasta montañas.</string>
+    <string name="pais_descripcion_bangladesh">Famosa por su vida fluvial, rica cultura y avances en la industria textil.</string>
+    <string name="pais_descripcion_rusia">País transcontinental y el más grande del mundo, conocido por su historia, vastos recursos naturales y clima extremadamente frío.</string>
+</resources>
