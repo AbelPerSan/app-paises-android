@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         val botonInfo: Button = findViewById(R.id.boton_info)
         botonInfo.setOnClickListener {
-        val intent = Intent(this, Pais::class.java)
+        val intent = Intent(this, ListaPaisActivity::class.java)
         startActivity(intent)
         }
     }
